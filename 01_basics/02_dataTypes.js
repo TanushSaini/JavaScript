@@ -31,3 +31,11 @@ let myObj = {
     age: 21,
     Mobile: 9981797559
 }
+
+
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Memory management in js
+//Stack(Primitive)         &           Heap(Non-Primitive)
